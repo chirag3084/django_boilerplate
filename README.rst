@@ -1,4 +1,4 @@
-Project setup
+Project setup project
 =============
 
 Setup local configuration for running code on host::
